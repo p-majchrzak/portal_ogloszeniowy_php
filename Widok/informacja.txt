@@ -1,0 +1,1 @@
+Widoki są tylko i wyłącznie widokami poglądowymi, ich wygląd na bardziej schludne, ulegnie zmianie wraz z szerszym rozwojem projektu.
